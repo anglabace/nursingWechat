@@ -1,0 +1,31 @@
+[
+    {
+        "ID": 9260,
+        "CusID": "18285533808",
+        "CarBrandID": 426,
+        "CarModel": 1,
+        "CarBrandName": "长安CX20",
+        "CarNo": "贵A12648",
+        "CarNoType": 0,
+        "BindTime": "2017-06-21 11:23:56",
+        "UpTime": "2017-12-21 11:23:56",
+        "Remark": null,
+        "CooprationID": 0,
+        "Status": 1,
+        "CarBrandInfo": null
+    },{
+        "ID": 9260,
+        "CusID": "18285533808",
+        "CarBrandID": 426,
+        "CarModel": 1,
+        "CarBrandName": "长安CX20",
+        "CarNo": "贵A12648",
+        "CarNoType": 0,
+        "BindTime": "2017-06-21 11:23:56",
+        "UpTime": "2017-06-20 11:23:56",
+        "Remark": null,
+        "CooprationID": 0,
+        "Status": 1,
+        "CarBrandInfo": null
+    }
+]
